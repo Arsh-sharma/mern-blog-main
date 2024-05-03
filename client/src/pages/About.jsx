@@ -9,7 +9,7 @@ export default function About() {
           <div className="text-md text-gray-500 flex flex-col gap-6">
             <p>
               Welcome to My Space! This blog was created by Arsh Sharma as a
-              personal project to share her thoughts and ideas with the world.
+              project to share her thoughts and ideas with the world.
               Arsh is a passionate developer who loves to write about
               technology, coding, and everything in between.
             </p>
