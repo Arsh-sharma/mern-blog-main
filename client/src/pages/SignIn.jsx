@@ -12,8 +12,7 @@ import OAuth from "../components/OAuth";
 
 export default function SignIn() {
   const [formData, setFormData] = useState({});
-  // const [errorMessage, setErrorMessage] = useState(null);
-  // const [loading, setLoading] = useState(false);
+  
 
   const { loading, error: errorMessage } = useSelector((state) => state.user);
 
